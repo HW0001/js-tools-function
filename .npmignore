@@ -7,3 +7,4 @@ lib
 rollup.config.js
 yarn
 .vscode
+.cache

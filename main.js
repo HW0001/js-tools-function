@@ -35,3 +35,10 @@ function fn04() {
 document.getElementById("demo05").onclick = function () {
   console.log(createRandom());
 };
+
+const obj = {
+  a: [12, 33, 2, null],
+  b: 2,
+  c: { aaa: 2 },
+};
+console.log(deepClone(obj));
