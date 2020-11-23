@@ -1,0 +1,33 @@
+{
+  "name": "tools-fucs",
+  "version": "1.0.8",
+  "description": "修改引用BUG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HW0001/js-tools-function.git"
+  },
+  "keywords": [
+    "tools",
+    "function",
+    "javascript"
+  ],
+  "author": "HW0001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HW0001/js-tools-function/issues"
+  },
+  "homepage": "https://github.com/HW0001/js-tools-function#readme",
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.5.1",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "rollup-plugin-terser": "^7.0.2",
+    "uglify-js": "^3.11.6"
+  }
+}
