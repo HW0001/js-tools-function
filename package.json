@@ -1,7 +1,7 @@
 {
   "name": "tools-fucs",
-  "version": "1.0.8",
-  "description": "修改引用BUG",
+  "version": "1.0.9",
+  "description": "修复深克隆BUG",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
